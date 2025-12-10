@@ -1,7 +1,4 @@
-아래는 Jennie가 작성한 내용을 **전문적이고 자연스러운 영어 버전**으로 깔끔하게 변환한 버전이야.
-GitHub README용으로 바로 사용해도 완벽해!
 
----
 
 # 🎮 **Pokémon Data Analysis (Pandas EDA Project)**
 
